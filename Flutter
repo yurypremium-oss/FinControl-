@@ -1,0 +1,13 @@
+FinControl/
+│
+├── android/
+├── ios/
+├── lib/
+├── assets/
+├── test/
+├── web/
+├── linux/
+├── macos/
+├── windows/
+├── pubspec.yaml
+└── README.md
