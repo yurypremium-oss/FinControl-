@@ -23,3 +23,5 @@ Aplicativo de gerenciamento financeiro desenvolvido em Flutter.
 - Supabase
 - PostgreSQL
 - FL Chart
+
+Atualizando README
